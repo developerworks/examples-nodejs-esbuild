@@ -1,0 +1,19 @@
+{
+  "name": "examples-esbuild",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node esbuild.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.3",
+    "table": "6.8.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.14.29"
+  }
+}
